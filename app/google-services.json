@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "671116125494",
+    "firebase_url": "https://acmhackathon-2d34c.firebaseio.com",
+    "project_id": "acmhackathon-2d34c",
+    "storage_bucket": "acmhackathon-2d34c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671116125494:android:e0f9acbe4b338d78cd3f97",
+        "android_client_info": {
+          "package_name": "com.example.acm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671116125494-27rp8avfnhg6ogcci007b0v8kqq5km3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUmAOGyKh_ZGiwyheOzk3HOUC0VmadNSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671116125494-27rp8avfnhg6ogcci007b0v8kqq5km3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671116125494:android:378a59b4801b71e5cd3f97",
+        "android_client_info": {
+          "package_name": "com.snapsid.aatmanirbhar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671116125494-27rp8avfnhg6ogcci007b0v8kqq5km3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUmAOGyKh_ZGiwyheOzk3HOUC0VmadNSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671116125494-27rp8avfnhg6ogcci007b0v8kqq5km3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671116125494:android:edb5ec955fd624aecd3f97",
+        "android_client_info": {
+          "package_name": "com.snapsid.acmhackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671116125494-k0pn2b3up3r4iobfa2m7otiuoj4aiun8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.snapsid.acmhackathon",
+            "certificate_hash": "4dafc97977895c31f7d9f5d0d443ccb8dd458806"
+          }
+        },
+        {
+          "client_id": "671116125494-27rp8avfnhg6ogcci007b0v8kqq5km3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUmAOGyKh_ZGiwyheOzk3HOUC0VmadNSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671116125494-27rp8avfnhg6ogcci007b0v8kqq5km3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
